@@ -1,0 +1,13 @@
+Input 
+format:Space separated infix expression .
+As the file name infixStrings.txt is given directly in the code, no need of any command line input while running the executable file ./calculator01.
+
+Output  
+
+The expressions evaluated are present in answers.txt
+
+run the 1.sh file which generates calculator01
+
+./calculator01 gives the output
+
+Note : The final answer is printed with 2 digits after the decimal.

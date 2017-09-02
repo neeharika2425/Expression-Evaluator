@@ -1,0 +1,4 @@
+The value of the expression is : 400.16
+The value of the expression is : 937.98
+The value of the expression is : 33.00
+The value of the expression is : 3154.09
